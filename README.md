@@ -21,7 +21,7 @@ Soar freely above the sea with your seagull, dive, and catch fish with smooth an
 Choose your preferred play style from the dropdown in the settings:  
 1. **Virtual Joystick**  
 2. **Joystick + Speed Button**  
-3. **Phone Rotation (Gyroscope) + Speed Button**  
+3. **Phone Rotation + Speed Button**  
 
 ## 📱 Platform  
 Mobile  
