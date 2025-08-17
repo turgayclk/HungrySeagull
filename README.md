@@ -27,12 +27,15 @@ Choose your preferred play style from the dropdown in the settings:
 Mobile  
 
 ## 🖼️ Screenshots  
-> In-game screenshots 
+> In-game screenshots
 
-![Screenshot1](Assets/Screenshots/screenshot1.jpg)  
-![Screenshot2](Assets/Screenshots/screenshot2.jpg)  
-![Screenshot3](Assets/Screenshots/screenshot3.jpg)  
-![Screenshot3](Assets/Screenshots/screenshot4.jpg)   
+<p align="center">
+  <img src="Assets/Screenshots/screenshot1.jpg" alt="Screenshot1" width="150" style="margin:5px"/>
+  <img src="Assets/Screenshots/screenshot2.jpg" alt="Screenshot2" width="150" style="margin:5px"/>
+  <img src="Assets/Screenshots/screenshot3.jpg" alt="Screenshot3" width="150" style="margin:5px"/>
+  <img src="Assets/Screenshots/screenshot4.jpg" alt="Screenshot4" width="150" style="margin:5px"/>
+  <img src="Assets/Screenshots/screenshot5.jpg" alt="Screenshot5" width="150" style="margin:5px"/>
+</p>
 ---
 
 ## 🛠️ Tech Stack  
